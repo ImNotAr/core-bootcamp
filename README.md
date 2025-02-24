@@ -53,3 +53,5 @@ Here are some VS Code Extensions that could help you have a better development e
 
 ## Contribute
 For change request, please clone and submit pull-request. Or e-mail at mark@theblokc.com
+
+0xc23A6E8354E903199Cd1fAf22b51531a0f640b0b
