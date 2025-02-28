@@ -1,0 +1,12 @@
+{
+    "name": "AURORA",
+    "description": "Description",
+    "symbol": "RORA",
+    "image": "https://imgur.com/a/nhtgpFj",
+    "attributes": [
+        {
+            "trait_type": "AURORA",
+            "value": "RORA"
+        }
+    ]
+}
